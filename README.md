@@ -1,5 +1,5 @@
 # DAIM: Short Introduction to Machine Learning
-A short introduction to machine learning, from Prof. Adil Kahn, Director of the Centre of Excellence for Data Science, AI and Modelling at the University of Hull
+A short introduction to machine learning, from Prof. Adil Kahn, Director of the [Centre of Excellence for Data Science, AI and Modelling](https://www.hull.ac.uk/research/centres/centre-of-excellence-for-data-science-artificial-intelligence-and-modelling) at the University of Hull
 
 ## Course Materials
 
