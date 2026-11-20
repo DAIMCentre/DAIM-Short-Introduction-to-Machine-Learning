@@ -1,8 +1,10 @@
 # DAIM: Short Introduction to Machine Learning
-A short introduction to machine learning, from Prof. Adil Kahn, Director of the [Centre of Excellence for Data Science, AI and Modelling](https://www.hull.ac.uk/research/centres/centre-of-excellence-for-data-science-artificial-intelligence-and-modelling) at the University of Hull
+A short introduction to machine learning, from Prof. Adil Khan, Director of the [Centre of Excellence for Data Science, AI and Modelling](https://www.hull.ac.uk/research/centres/centre-of-excellence-for-data-science-artificial-intelligence-and-modelling) at the University of Hull
 
 ## Course Materials
 
 * [Week 1: Understanding Machine Learning](https://github.com/DAIMCentre/DAIM-Short-Introduction-to-Machine-Learning/blob/1ff2aba875896c53818478bc54f6ac3439568cf2/Week_1_Main_Reading.pdf)
 
 * [Week 2: Applying Logistic Regression](https://github.com/DAIMCentre/DAIM-Short-Introduction-to-Machine-Learning/blob/4f0b980e01df5c4335f416368e0cdf20c5e0b6dd/Week_2_Main_Reading.pdf)
+
+* [Week 3: Evaluating Models](https://github.com/DAIMCentre/DAIM-Short-Introduction-to-Machine-Learning/blob/e2a8dadbeba5ab8bea392de223290b8bdcb7a2df/Week_3_Main_Reading.pdf)
